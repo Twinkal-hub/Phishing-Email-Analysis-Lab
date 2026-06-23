@@ -54,6 +54,12 @@ T1566.002 - Phishing: Spearphishing Link
 Tactic:
 Initial Access
 
+## Evidence Screenshot
+
+### Python Email Analysis Output
+
+![Email Analysis Output](../screenshots/email-analysis-output.png)
+
 ## Recommendations
 
 - Do not click suspicious links.
