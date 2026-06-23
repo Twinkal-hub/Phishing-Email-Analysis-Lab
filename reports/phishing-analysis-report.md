@@ -58,7 +58,7 @@ Initial Access
 
 ### Python Email Analysis Output
 
-![Email Analysis Output](../screenshots/email-analysis-output.png)
+![Email Analysis Output](../screenshots/email-analysis.png)
 
 ## Recommendations
 
