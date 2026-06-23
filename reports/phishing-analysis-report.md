@@ -18,7 +18,7 @@ The domain uses "paypa1" instead of "paypal", indicating domain impersonation.
 
 ### Suspicious URL
 
-http://paypal-account-security-login.com
+hxxp://paypal-account-security-login[.]com
 
 The URL does not belong to the legitimate PayPal domain.
 
@@ -66,6 +66,7 @@ Initial Access
 - Verify sender domains.
 - Report phishing emails to security teams.
 - Enable Multi-Factor Authentication (MFA).
+- Block the malicious domain and educate users about phishing awareness.
 
 ## Conclusion
 
