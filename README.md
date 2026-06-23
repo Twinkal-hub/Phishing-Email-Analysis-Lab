@@ -91,6 +91,22 @@ Detailed analysis and investigation:
 📄 View `reports/phishing-analysis-report.md`
 
 
+## Project Workflow
+
+```text
+Suspicious Email
+       ↓
+Python Email Analyzer
+       ↓
+IOC Extraction
+       ↓
+Threat Classification
+       ↓
+MITRE ATT&CK Mapping
+       ↓
+Incident Report
+```
+
 ## Skills Demonstrated
 
 - Email Security
