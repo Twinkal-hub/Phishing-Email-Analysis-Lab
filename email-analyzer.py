@@ -25,4 +25,4 @@ def analyze_eml(file_path):
     print("Severity: HIGH")
     print("MITRE ATT&CK: T1566.002 - Spearphishing Link")
 
-analyze_eml("samples/suspicious_invoice.eml")
+analyze_eml("samples/phishing-email.txt")
