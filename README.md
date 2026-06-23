@@ -88,7 +88,7 @@ Initial Access
 
 Detailed analysis and investigation:
 
-📄 View `reports/phishing-analysis-report.md`
+📄 [View Report](reports/phishing-analysis-report.md)
 
 
 ## Project Workflow
