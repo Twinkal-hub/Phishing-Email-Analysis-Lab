@@ -118,6 +118,7 @@ Incident Report
 - Cybersecurity Reporting
 - Incident Response
 - Security Monitoring
+- Security Awareness
 
 
 ## Evidence
