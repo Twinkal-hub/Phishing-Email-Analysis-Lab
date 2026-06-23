@@ -1,16 +1,15 @@
 From: support@paypa1-security.com
 To: user@example.com
 Subject: Urgent - Verify Your Account
+Content-Type: text/plain
 
 Dear Customer,
 
-We noticed unusual activity on your PayPal account.
-
-Please verify your account immediately by clicking the link below:
+Please verify your account immediately:
 
 http://paypal-account-security-login.com
 
-Failure to verify your account within 24 hours may result in account suspension.
+Failure to verify your account may result in suspension.
 
 Thank you,
 PayPal Security Team
